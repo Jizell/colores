@@ -1,0 +1,66 @@
+/*h1
+ {
+    color: blueviolet;
+    font-size: 50px;
+
+}*/
+
+.blueviolet{
+    color: rgb(226, 43, 202);
+    font-size: 30px;
+    background-color: aquamarine;
+}
+
+.blue {
+    color: blue;
+    font-size: 50px;
+    background-color: bisque;
+    border: 3px solid gold;
+    text-align:center;
+    padding-left: 30px;
+    padding-top: 30px; 
+    padding-right: 30px;
+    padding-bottom: 30px;
+
+
+}
+
+.rosa {
+    color: deeppink;
+    font-size: 20px;
+    background-color: chartreuse;
+    border: 2px dotted;
+    text-align: center;
+}
+
+.verde {
+    color: darkgreen;
+    font-size:40px ;
+    background-color: coral;
+}
+
+.yellow {
+    color: goldenrod;
+    font-size: 45px;
+    background-color: grey;
+}
+
+.red {
+    color: darkred;
+    font-size: 60px;
+    background-color: darkkhaki;
+
+}
+
+/*div {
+    background-color: aquamarine;
+}
+*/
+
+.div_color_azul {
+    background-color: blue;
+}
+.div_color_rosa {
+    background-color: deeppink;
+}
+
